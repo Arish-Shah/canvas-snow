@@ -1,0 +1,11 @@
+html,
+body {
+  margin: 0;
+  background: rgb(34, 29, 61);
+  overflow: hidden;
+}
+
+canvas {
+  height: 100%;
+  width: 100%;
+}
