@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.css"],"names":[],"mappings":"AAAA,UAEE,QAAS,CACT,kBAA2B,CAC3B,eACF,CAEA,OACE,WAAY,CACZ,UACF","file":"main.5ba86276.css","sourceRoot":"..","sourcesContent":["html,\r\nbody {\r\n  margin: 0;\r\n  background: rgb(34, 29, 61);\r\n  overflow: hidden;\r\n}\r\n\r\ncanvas {\r\n  height: 100%;\r\n  width: 100%;\r\n}\r\n"]}
